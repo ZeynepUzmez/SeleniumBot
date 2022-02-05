@@ -10,3 +10,4 @@ Otomatik kullanıcı girişi <br>
 Verilen kelimeye göre twitter araması ve o kelimenin geçtiği tweetleri dosyaya kaydetme <br>
 <h3>Yemekhane Bot</h3> 
 Yemekhanedeki günlük menüyü dosyaya kaydetme
+(Kodların çalışması için kodlarla tarayıcı driveri aynı dosya içinde olmalı)
